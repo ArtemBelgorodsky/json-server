@@ -140,11 +140,18 @@
        "example": [
              {
           "id": 1,
-          "olga": "1111"
+          "name": "artem",
+          "age": 25
   },
         {
           "id": 2,
-          "timur": "2222"
+          "name": "kirill",
+          "age": 24
+  },
+             {
+          "id": 3,
+          "name": "Alex",
+          "age": 21,
   }
        ]
 }
