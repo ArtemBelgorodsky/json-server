@@ -144,7 +144,9 @@
           "age": 25,
           "TVL": 6,
           "VLL": 4,
-          "Saturation": 99        
+          "Saturation": 99,
+          "avatar": "https://yandex.ru/images/search?p=1&text=аватар+подростка&pos=5&isize=small&rpt=simage&img_url=https%3A%2F%2Fbestcube.space%2Fwp-content%2Fuploads%2Fimage017.jpg&from=tabbar&lr=20195"
+                  
   },
         {
           "id": 2,
@@ -152,7 +154,8 @@
           "age": 41,
           "TVL": 4.4,
           "VLL": 2.4,
-          "Saturation": 97
+          "Saturation": 97,
+          "avatar": "https://yandex.ru/images/search?text=аватар+мужчины&pos=0&isize=small&rpt=simage&img_url=https%3A%2F%2Fbelon.club%2Fuploads%2Fposts%2F2023-04%2F1681531491_belon-club-p-obichnii-muzhchina-pinterest-1.jpg&from=tabbar&lr=20195"
   },
              {
           "id": 3,
@@ -160,7 +163,8 @@
           "age": 65,
           "TVL": 5,
           "VLL": 2.4,
-          "Saturation": 98
+          "Saturation": 98,
+          "avatar": "https://yandex.ru/images/search?p=1&text=аватар+бабушки&pos=22&rpt=simage&img_url=http%3A%2F%2Fpics.photographer.ru%2Fnonstop%2Fpics%2Fpictures%2F785%2F785442.jpg&from=tabbar&lr=20195"         
   }
              
        ]
