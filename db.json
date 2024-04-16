@@ -140,18 +140,27 @@
        "example": [
              {
           "id": 1,
-          "name": "artem",
-          "age": 25
+          "name": "Иванов Игорь Михайлович",
+          "age": 25,
+          "TVL": 6,
+          "VLL": 4,
+          "Saturation": 99        
   },
         {
           "id": 2,
-          "name": "kirill",
-          "age": 24
+          "name": "Петров Александр Викторович",
+          "age": 41,
+          "TVL": 4.4,
+          "VLL": 2.4,
+          "Saturation": 97
   },
              {
           "id": 3,
-          "name": "alex",
-          "age": 29
+          "name": "Сидорова Юлия Николаевна",
+          "age": 65,
+          "TVL": 5,
+          "VLL": 2.4,
+          "Saturation": 98
   }
              
        ]
