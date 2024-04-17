@@ -175,9 +175,9 @@
           "age": 35,
           "position": "Менеджер",
           "maritalStatus": "Женат",
-          "startDate": "01.01.2020",
-          "vacationStartDate": "01.07.2024",
-          "vacationEndDate": "15.07.2024",
+          "startDate": "2020-01-01",
+          "vacationStartDate": "2024-07-01",
+          "vacationEndDate": "2024-07-15",
           "benefits": "нет",
           "salary": 50000
                   
@@ -188,9 +188,9 @@
           "age": 28,
           "position": "Специалист по кадрам",
           "maritalStatus": "Замужем",
-          "startDate": "15.03.2021",
-          "vacationStartDate": "10.08.2024",
-          "vacationEndDate": "25.08.2024",
+          "startDate": "2021-15-03",
+          "vacationStartDate": "2024-10-08",
+          "vacationEndDate": "2024-08-25",
           "benefits": "Льготы по льготной карте",
           "salary": 45000
   },
@@ -200,9 +200,9 @@
           "age": 43,
           "position": "Главный инженер",
           "maritalStatus": "Холост",
-          "startDate": "01.05.2015",
-          "vacationStartDate": "01.07.2024",
-          "vacationEndDate": "15.07.2024",
+          "startDate": "2015-05-01",
+          "vacationStartDate": "2024-07-01",
+          "vacationEndDate": "2024-07-15",
           "benefits": "Льгота по сроку работы",
           "salary": 90000         
   }
