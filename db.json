@@ -167,5 +167,45 @@
           "avatar": "https://pics.photographer.ru/nonstop/pics/pictures/785/785442.jpg"         
   }
              
+       ],
+      "agency": [
+             {
+          "id": 2,
+          "name": "Иванов Игорь Михайлович",
+          "age": 35,
+          "position": "Менеджер",
+          "maritalStatus": "Женат",
+          "startDate": "01.01.2020",
+          "vacationStartDate": "01.07.2024",
+          "vacationEndDate": "15.07.2024",
+          "benefits": "нет",
+          "salary": 50000
+                  
+  },
+        {
+          "id": 1,
+          "name": "Петрова Мария Егоровна",
+          "age": 28,
+          "position": "Специалист по кадрам",
+          "maritalStatus": "Замужем",
+          "startDate": "15.03.2021",
+          "vacationStartDate": "10.08.2024",
+          "vacationEndDate": "25.08.2024",
+          "benefits": "Льготы по льготной карте",
+          "salary": 45000
+  },
+             {
+           "id": 3,
+          "name": "Пигорев Роман Дмитриевич",
+          "age": 43,
+          "position": "Главный инженер",
+          "maritalStatus": "Холост",
+          "startDate": "01.05.2015",
+          "vacationStartDate": "01.07.2024",
+          "vacationEndDate": "15.07.2024",
+          "benefits": "Льгота по сроку работы",
+          "salary": 90000         
+  }
+             
        ]
 }
