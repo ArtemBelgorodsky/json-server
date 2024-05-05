@@ -209,8 +209,8 @@
              
        ],
       "agregator": 
-      [{
-              "movies": [
+      [
+            "movies": [
     {
       "id": 1,
       "title": "The Shawshank Redemption",
@@ -249,6 +249,6 @@
       "favorites": [3]
     }
   ]
-      }]
+      ]
       
 }
