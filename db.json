@@ -209,7 +209,7 @@
              
        ],
       "agregator": 
-      [
+      [{
               "movies": [
     {
       "id": 1,
@@ -248,6 +248,7 @@
       "role": "user",
       "favorites": [3]
     }
-  ]]
+  ]
+      }]
       
 }
