@@ -232,43 +232,91 @@
           "note": "Необходимо наличие профильного образования по сфере деятельности"
             }
        ],
-  "agregator_movies": [
+ "agregator_movies": [
     {
       "id": 1,
-      "title": "The Shawshank Redemption",
-      "year": 1994,
-      "genre": "Drama",
-      "rating": 9.2
+      "title": "Побег из Шоушенка",
+      "description": "Два заключенных, Энди и Ред, пытаются бежать из тюрьмы Шоушенка.",
+      "rating": 9.2,
+      "reviews": [
+        {
+          "id": 1,
+          "text": "Один из лучших фильмов всех времен!",
+          "rating": 5,
+          "userId": 1
+        },
+        {
+          "id": 2,
+          "text": "Фильм оставил меня в шоке!",
+          "rating": 5,
+          "userId": 2
+        }
+      ]
     },
     {
       "id": 2,
-      "title": "The Godfather",
-      "year": 1972,
-      "genre": "Crime",
-      "rating": 9.1
+      "title": "Тёмный рыцарь",
+      "description": "Бэтмен противостоит Джокеру в битве за Готэм.",
+      "rating": 9.0,
+      "reviews": [
+        {
+          "id": 3,
+          "text": "Эпичный фильм!",
+          "rating": 5,
+          "userId": 3
+        }
+      ]
     },
     {
       "id": 3,
-      "title": "The Dark Knight",
-      "year": 2008,
-      "genre": "Action",
-      "rating": 9.0
+      "title": "Интерстеллар",
+      "description": "Астронавты отправляются в путешествие через червоточину в поисках новой планеты для человечества.",
+      "rating": 8.8,
+      "reviews": [
+        {
+          "id": 4,
+          "text": "Удивительный фильм!",
+          "rating": 5,
+          "userId": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Матрица",
+      "description": "Нейо обнаруживает, что его жизнь - это иллюзия, созданная машинами.",
+      "rating": 8.7,
+      "reviews": [
+        {
+          "id": 5,
+          "text": "Классика!",
+          "rating": 5,
+          "userId": 5
+        }
+      ]
     }
   ],
   "agregator_users": [
     {
       "id": 1,
-      "username": "john",
+      "name": "John Doe",
+      "email": "johndoe@example.com",
       "password": "password123",
-      "role": "admin",
-      "favorites": [1, 2]
+      "role": "user"
     },
     {
       "id": 2,
-      "username": "jane",
+      "name": "Jane Doe",
+      "email": "janedoe@example.com",
       "password": "password123",
-      "role": "user",
-      "favorites": [3]
+      "role": "user"
+    },
+    {
+      "id": 3,
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "password123",
+      "role": "admin"
     }
   ]
 }
