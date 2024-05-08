@@ -235,6 +235,7 @@
  "agregator_movies": [
     {
       "id": 1,
+      "poster": "https://images.kinorium.com/movie/poster/101209/w1500_50345280.jpg",
       "title": "Побег из Шоушенка",
       "description": "Два заключенных, Энди и Ред, пытаются бежать из тюрьмы Шоушенка.",
       "rating": 9.2,
@@ -256,6 +257,7 @@
     {
       "id": 2,
       "title": "Тёмный рыцарь",
+      "poster": "https://hydra.mediasearch.verizon.com/ResourcesFiles/ImageLibrary/FiosTV/UnBranded/H/169_Lrg/TVNWARNERBROSHD.COM_VUBH0000000072582402.jpg?s=1440x810",
       "description": "Бэтмен противостоит Джокеру в битве за Готэм.",
       "rating": 9.0,
       "reviews": [
@@ -270,6 +272,7 @@
     {
       "id": 3,
       "title": "Интерстеллар",
+      "poster": "https://i.pinimg.com/736x/8e/0d/ab/8e0dab8699be85720ce55845065bf6dc.jpg",
       "description": "Астронавты отправляются в путешествие через червоточину в поисках новой планеты для человечества.",
       "rating": 8.8,
       "reviews": [
@@ -284,7 +287,8 @@
     {
       "id": 4,
       "title": "Матрица",
-      "description": "Нейо обнаруживает, что его жизнь - это иллюзия, созданная машинами.",
+      "poster": "https://papik.pro/grafic/uploads/posts/2023-03/1680151396_papik-pro-p-poster-matritsa-18.jpg",
+      "description": "Нео обнаруживает, что его жизнь - это иллюзия, созданная машинами.",
       "rating": 8.7,
       "reviews": [
         {
