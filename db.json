@@ -295,212 +295,128 @@
       ]
     },
 {
-  "id": 7,
-  "title": "Властелин колец: Братство кольца",
-  "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
-  "description": "Фродо Бэггинс отправляется в опасное путешествие, чтобы уничтожить Кольцо Всевластья.",
-  "rating": 8.8,
+  "id": 40,
+  "title": "Гравитация",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMTcwNTE4MDU5Nl5BMl5BanBnXkFtZTcwNjA5MDY3OQ@@._V1_.jpg",
+  "description": "Астронавты борются за выживание после столкновения с космическим мусором во время выхода в открытый космос.",
+  "rating": 7.7,
   "reviews": [
     {
-      "id": 8,
-      "text": "Эпическое фэнтези с великолепным актёрским составом!",
-      "rating": 5
-    }
-  ]
-},
-{
-  "id": 9,
-  "title": "Криминальное чтиво",
-  "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-  "description": "Связанные друг с другом истории о преступлениях и наказаниях в стиле неонуар.",
-  "rating": 8.9,
-  "reviews": [
-    {
-      "id": 10,
-      "text": "Удивительный сценарий и великолепная игра актёров!",
-      "rating": 5
-    }
-  ]
-},
-{
-  "id": 11,
-  "title": "Начало",
-  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
-  "description": "Команда воров проникает в человеческое сознание, чтобы украсть информацию или внедрить идею.",
-  "rating": 8.8,
-  "reviews": [
-    {
-      "id": 12,
-      "text": "Интеллектуальный и захватывающий научно-фантастический триллер!",
-      "rating": 5
-    }
-  ]
-},
-{
-  "id": 15,
-  "title": "Аватар",
-  "poster": "https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_.jpg",
-  "description": "Человек переходит в аватару на планету Пандора, чтобы добывать ценные ресурсы, но влюбляется в местную культуру.",
-  "rating": 7.8,
-  "reviews": [
-    {
-      "id": 16,
-      "text": "Великолепные визуальные эффекты и захватывающий мир!",
+      "id": 41,
+      "text": "Напряженный и захватывающий фильм о выживании в космосе.",
       "rating": 4
     }
   ]
 },
-{
-  "id": 17,
-  "title": "Спасти рядового Райана",
-  "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtMmQwNWMwODk0NzM1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-  "description": "Группа солдат отправляется на задание спасти пропавшего рядового из семьи Райан во время Второй мировой войны.",
-  "rating": 8.6,
-  "reviews": [
-    {
-      "id": 18,
-      "text": "Эмоциональный и реалистичный взгляд на войну!",
-      "rating": 5
-    }
-  ]
-},
        {
-  "id": 5,
-  "title": "Форрест Гамп",
-  "poster": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJmNTEtMmZhY2UwNmZlMTY3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
-  "description": "Простак Форрест Гамп живет полной жизнью, становясь участником многих исторических событий.",
-  "rating": 8.8,
+  "id": 44,
+  "title": "Бегущий по лезвию",
+  "poster": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWDjMy00ZjhkLWE0ZDItN2QyNzQxNTUwNWRjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
+  "description": "Следователь Рик Декард ищет андроидов, которые скрываются среди людей в антиутопическом Лос-Анджелесе.",
+  "rating": 8.1,
   "reviews": [
     {
-      "id": 6,
-      "text": "Чудесный фильм о жизни и любви!",
+      "id": 45,
+      "text": "Классика киберпанка с глубоким философским смыслом.",
       "rating": 5
     }
   ]
 },
 {
-  "id": 7,
-  "title": "Властелин колец: Братство кольца",
-  "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
-  "description": "Фродо Бэггинс отправляется в опасное путешествие, чтобы уничтожить Кольцо Всевластья.",
-  "rating": 8.8,
-  "reviews": [
-    {
-      "id": 8,
-      "text": "Эпическое фэнтези с великолепным актёрским составом!",
-      "rating": 5
-    }
-  ]
-},
-{
-  "id": 9,
-  "title": "Криминальное чтиво",
-  "poster": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg",
-  "description": "Связанные друг с другом истории о преступлениях и наказаниях в стиле неонуар.",
-  "rating": 8.9,
-  "reviews": [
-    {
-      "id": 10,
-      "text": "Удивительный сценарий и великолепная игра актёров!",
-      "rating": 5
-    }
-  ]
-},
-{
-  "id": 11,
-  "title": "Начало",
-  "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
-  "description": "Команда воров проникает в человеческое сознание, чтобы украсть информацию или внедрить идею.",
-  "rating": 8.8,
-  "reviews": [
-    {
-      "id": 12,
-      "text": "Интеллектуальный и захватывающий научно-фантастический триллер!",
-      "rating": 5
-    }
-  ]
-},
-{
-  "id": 13,
-  "title": "Инферно",
-  "poster": "https://m.media-amazon.com/images/M/MV5BMTYzZWE3MDAtZjZkMi00MzhlLTlhZDUtNmI2Zjg3OWVlYmY2XkEyXkFqcGdeQXVyNTI4MzE4MDU@._V1_.jpg",
-  "description": "Роберт Лэнгдон оказывается втянутым в глобальную погоню за тайной, связанной с Божественной комедией Данте.",
-  "rating": 6.2,
-  "reviews": [
-    {
-      "id": 14,
-      "text": "Интересный сюжет, но не такой сильный, как предыдущие работы.",
-      "rating": 3
-    }
-  ]
-},
-{
-  "id": 19,
-  "title": "Гладиатор",
-  "poster": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
-  "description": "Полководец Максимус становится гладиатором и мстит за свою семью и Рим.",
-  "rating": 8.5,
-  "reviews": [
-    {
-      "id": 20,
-      "text": "Великолепные батальные сцены и глубокие персонажи!",
-      "rating": 5
-    }
-  ]
-},
-       {
-  "id": 31,
+  "id": 46,
   "title": "Терминатор 2: Судный день",
   "poster": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWE1ODktNmI2YjQ3Mjc1ZDVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg",
   "description": "Т-800 прибывает из будущего, чтобы защитить Джона Коннора от более совершенного терминатора Т-1000.",
   "rating": 8.5,
   "reviews": [
     {
-      "id": 32,
+      "id": 47,
       "text": "Экшн-боевик с впечатляющими спецэффектами и динамичным сюжетом.",
       "rating": 5
     }
   ]
 },
-{
-  "id": 33,
+       {
+  "id": 49,
   "title": "Семь",
   "poster": "https://m.media-amazon.com/images/M/MV5BOTUwNjU5NjI2MV5BMl5BanBnXkFtZTgwNTQ3MjQ5MDE@._V1_.jpg",
-  "description": "Два детектива преследуют сериюного убийцу, который использует семь смертных грехов в качестве мотивации для своих преступлений.",
+  "description": "Два детектива преследуют серийных убийцу, который использует семь смертных грехов в качестве мотивации для своих преступлений.",
   "rating": 8.6,
   "reviews": [
     {
-      "id": 34,
+      "id": 50,
       "text": "Напряженный триллер с неожиданным финалом и сильной актёрской игрой.",
       "rating": 5
     }
   ]
 },
 {
-  "id": 35,
+  "id": 51,
   "title": "Джанго освобожденный",
   "poster": "https://m.media-amazon.com/images/M/MV5BMjI0NTQ4MzY4Nl5BMl5BanBnXkFtZTcwNjY5NzYyOQ@@._V1_.jpg",
   "description": "Раб по имени Джанго обретает свободу и становится наёмным убийцей, чтобы спасти свою жену из рабства.",
   "rating": 8.4,
   "reviews": [
     {
-      "id": 36,
+      "id": 52,
       "text": "Увлекательный вестерн с черным юмором и яркими персонажами.",
       "rating": 5
     }
   ]
 },
 {
-  "id": 37,
+  "id": 53,
   "title": "Патруль",
   "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNjQ1MjY0N15BMl5BanBnXkFtZTcwMzUyODMzOQ@@._V1_.jpg",
   "description": "Два полицейских из Лос-Анджелеса сталкиваются с жестокостью и коррупцией в своей работе.",
   "rating": 8.0,
   "reviews": [
     {
-      "id": 38,
+      "id": 54,
       "text": "Реалистичный и тревожный взгляд на мир полиции и его проблемы.",
       "rating": 4
+    }
+  ]
+},
+{
+  "id": 55,
+  "title": "12 лет рабства",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjE1NjI3NzI4MV5BMl5BanBnXkFtZTgwMDU4ODE5MTE@._V1_.jpg",
+  "description": "История Сола, свободного чернокожего музыканта, который становится рабы и проводит в рабстве 12 лет, прежде чем его освобождают.",
+  "rating": 8.1,
+  "reviews": [
+    {
+      "id": 56,
+      "text": "Эмоциональное и реалистичное изображение истории рабства в Америке.",
+      "rating": 5
+    }
+  ]
+},
+{
+  "id": 57,
+  "title": "Остров проклятых",
+  "poster": "https://m.media-amazon.com/images/M/MV5BMjA4NzYxNzMzN15BMl5BanBnXkFtZTgwMzM4NzMzMDE@._V1_.jpg",
+  "description": "Группа заключенных и охранников оказывается запертой на изолированном острове, где начинают происходить странные и пугающие события.",
+  "rating": 7.3,
+  "reviews": [
+    {
+      "id": 58,
+      "text": "Напряженный хоррор с атмосферой загадочности и ужаса.",
+      "rating": 4
+    }
+  ]
+},
+{
+  "id": 59,
+  "title": "Властелин колец: Братство кольца",
+  "poster": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_.jpg",
+  "description": "Фродо Бэггинс отправляется в опасное путешествие, чтобы уничтожить Кольцо Всевластья.",
+  "rating": 8.8,
+  "reviews": [
+    {
+      "id": 60,
+      "text": "Эпическое фэнтези с великолепным актёрским составом и захватывающим сюжетом.",
+      "rating": 5
     }
   ]
 }
