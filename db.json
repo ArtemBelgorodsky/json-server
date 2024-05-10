@@ -434,7 +434,7 @@
       "name": "User",
       "email": "user@example.com",
       "password": "user",
-      "role": "user"
+      "role": "admin"
     }
   ]
 }
