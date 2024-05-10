@@ -424,24 +424,17 @@
   "agregator_users": [
     {
       "id": 1,
-      "name": "John Doe",
-      "email": "johndoe@example.com",
-      "password": "password123",
+      "name": "Admin",
+      "email": "admin@example.com",
+      "password": "admin",
       "role": "user"
     },
     {
       "id": 2,
-      "name": "Jane Doe",
-      "email": "janedoe@example.com",
-      "password": "password123",
+      "name": "User",
+      "email": "user@example.com",
+      "password": "user",
       "role": "user"
-    },
-    {
-      "id": 3,
-      "name": "Admin",
-      "email": "admin@example.com",
-      "password": "password123",
-      "role": "admin"
     }
   ]
 }
