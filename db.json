@@ -427,14 +427,14 @@
       "name": "Admin",
       "email": "admin@example.com",
       "password": "admin",
-      "role": "user"
+      "role": "admin"
     },
     {
       "id": 2,
       "name": "User",
       "email": "user@example.com",
       "password": "user",
-      "role": "admin"
+      "role": "user"
     }
   ]
 }
