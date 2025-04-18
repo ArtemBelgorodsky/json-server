@@ -436,5 +436,13 @@
       "password": "user",
       "role": "user"
     }
-  ]
+  ],
+      "project1": {
+    "users": [
+      { "id": 1, "name": "Alice" }
+    ],
+    "posts": [
+      { "id": 1, "title": "Hello" }
+    ]
+  }
 }
